@@ -1,0 +1,11 @@
+html body{
+    background: url("https://img.onl/2foUDc");
+}
+body * {
+    font-weight: 550 !important;
+}
+/* Change the background color or image for Google Search results */
+div.g {
+    background: transparent !important;
+}
+
